@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvender",
+        "uuid": 29804112,
+        "checksum": "4m9kd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
